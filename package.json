@@ -4,7 +4,7 @@
   "description": "Node HTTP server for portfolio project",
   "main": "server.js",
   "scripts": {
-    "start": "node server/server.js"
+    "start": "node server.js"
   },
   "dependencies": {},
   "license": "MIT"
